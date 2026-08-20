@@ -1,4 +1,4 @@
-# 🔗 URL Shortener API
+# URL Shortener API
 
 A high-performance URL shortener API built with FastAPI, featuring Redis caching, rate limiting, and Docker containerization.
 
